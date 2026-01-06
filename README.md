@@ -1,23 +1,21 @@
-# Amazon Clone – Frontend
+# Digital Invitation Card
 
 ## 📌 Description
-A frontend clone of the Amazon website built to practice responsive web design and UI development.
+A digital invitation card created using basic web technologies.
 
 ## 🚀 Features
+- Attractive UI
 - Responsive Layout
-- Product Listing UI
-- Navigation Bar
-- Clean Design
+- Lightweight Design
 
 ## 🛠️ Tech Stack
 - HTML
 - CSS
-- JavaScript
 
-## ▶️ How to Run
-1. Clone the repository  
-   `git clone https://github.com/tya61/Amazon-clone.git`
-2. Open `index.html` in browser
+## ▶️ How to View
+1. Clone repository  
+   `git clone https://github.com/tya61/Invitation-card.git`
+2. Open `index.html`
 
-## 🎯 Purpose
-To strengthen frontend fundamentals and UI structuring skills.
+## 🎯 Objective
+To practice UI design and layout using pure HTML & CSS.
